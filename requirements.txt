@@ -1,0 +1,16 @@
+The required Python packages for this program are:
+- requests
+- json
+- bs4 (BeautifulSoup)
+- selenium
+- nltk
+- transformers
+- spacy
+- collections
+- gensim
+- vaderSentiment
+- googlesearch
+- xml
+- hashlib
+- datetime
+- sqlite3
